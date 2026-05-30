@@ -64,6 +64,27 @@ CSV Dataset → MySQL Database → SQL Analysis → Power BI Dashboard
 
 ---
 
+## Skills Demonstrated
+
+* Data Cleaning
+* SQL Querying
+* Data Analysis
+* Business Intelligence
+* Data Visualization
+* Dashboard Design
+* KPI Reporting
+
+---
+
+## Future Improvements
+
+* Add customer segmentation analysis
+* Build sales forecasting models
+* Automate dashboard refresh using database connections
+* Expand analysis with advanced Power BI measures (DAX)
+
+---
+
 ## Repository Structure
 
 Dataset/
